@@ -8,5 +8,8 @@ This project allows you to load an image and click on it to get the RGB pixel va
 - OpenCV (`cv2`)
 - `os` module (standard Python library)
 
-[Watch the video](https://github.com/5PCD3/LivePixelDetection/blob/main/ImagePixelLive.mp4)
+<video width="320" height="240" controls>
+  <source src="https://github.com/5PCD3/LivePixelDetection/blob/main/ImagePixelLive.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
