@@ -8,6 +8,6 @@ This project allows you to load an image and click on it to get the RGB pixel va
 - OpenCV (`cv2`)
 - `os` module (standard Python library)
 
-## Live Implementation Demmo
+## Live Implementation Demo
 https://github.com/5PCD3/LivePixelDetection/assets/123960953/fe31ff1d-0c84-460d-b061-fd701d18bb17
 
